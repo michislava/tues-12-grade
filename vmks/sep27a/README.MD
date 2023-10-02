@@ -1,7 +1,7 @@
 ### Програмиране на ВМКС
-    gzafirov@elsys-bg.org - отсъствие да се пише имейл
-    Проекти с шифт регистри, конфигуриране на таймер, китове
-    Контролни на tinkercad
+gzafirov@elsys-bg.org - отсъствие да се пише имейл
+Проекти с шифт регистри, конфигуриране на таймер, китове
+Контролни на tinkercad
 
 # 27.09
 
@@ -12,4 +12,4 @@ tinkercard schematic: https://www.tinkercad.com/things/5nCUZvSztgj-fabulous-fulf
 ARD има вътрешен pull-up резистор, за да се използва в софтуера:
 
 ```c
-pinMode()
+pinMode(BUTTON1, INPUT_PULLUP)
