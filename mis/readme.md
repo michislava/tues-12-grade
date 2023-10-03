@@ -1,10 +1,11 @@
 # Мрежова и информационна сигурност
-kuzm
+kuzmin.petar@gmail.com
 
 ## Записки от часа
 
 ## Първо домашно
 IP адрес: 95.43.233.245
+
 С nmap да бъдат сканирани портове / търсене на кои портове са отворени и уязвимости. Трябва да бъдат предоставени screenshot-и и да бъдат описани.
 
 Доклад: https://docs.google.com/document/d/1Xs7_lLW_lZq5tIOjysH1DEg3HodW6HxdOtCWZLeah0o/edit?usp=sharing
