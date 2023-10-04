@@ -1,5 +1,5 @@
 # Мрежова и информационна сигурност
-kuzmin.petar@gmail.com
+Kuzmin.petar@gmail.com
 
 ## Записки от часа
 
