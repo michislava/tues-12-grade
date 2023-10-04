@@ -53,4 +53,7 @@ emi@debian:nmap -A 95.43.233.245
 ```console
 emi@debian:nmap --script vuln 95.43.233.245
 ```
+```c
+nmap --help
+```
 
