@@ -28,3 +28,29 @@ IP адрес: 95.43.233.245
 - Главите са с : Heading 2 - шрифт 16
 - Подглави: Heading 3 - шрифт 15
 - Heading 1 e за заглавия
+1. Check for live systems
+```console
+emi@debian:nslookup 95.43.233.245
+```
+```console
+emi@debian:nmap -sP 95.43.233.245
+```
+2. Check for open ports
+```console
+emi@debian:nmap 95.43.233.245
+```
+3. Perform banner grabbing
+```console
+emi@debian:nmap -sV 95.43.233.245
+```
+```console
+emi@debian:nmap -O 95.43.233.245
+```
+```console
+emi@debian:nmap -A 95.43.233.245
+```
+4. Vulnerability Scan
+```console
+emi@debian:nmap --script vuln 95.43.233.245
+```
+
