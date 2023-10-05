@@ -28,6 +28,7 @@ IP адрес: 95.43.233.245
 - Главите са с : Heading 2 - шрифт 16
 - Подглави: Heading 3 - шрифт 15
 - Heading 1 e за заглавия
+
 1. Check for live systems
 ```console
 emi@debian:nslookup 95.43.233.245
