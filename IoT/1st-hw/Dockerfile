@@ -1,5 +1,5 @@
 FROM python:3.9-slim-buster
-# tva e lightweight linux os with python installed
+# lightweight linux os with python installed
 WORKDIR /app
 # relative file paths
 COPY requirements.txt requirements.txt
