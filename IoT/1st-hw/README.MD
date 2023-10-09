@@ -71,7 +71,7 @@ docker ps
 ![img.png](images/img.png)
 
 4. Push-ване в Dockerhub
-
+docker tag flaskproject emiliyata/iot-flask-project  
 - Влизане в акаунта 
 ```bash
 docker login -u emiliyata        
@@ -80,9 +80,8 @@ docker login -u emiliyata
 ```bash
 docker tag flaskproject emiliyata/iot-flask-project
 ``` 
-- Push-ване в repo Iot
+- Push-ване в repo 
 ```bash
 docker push emiliyata/IoT:flaskproject  
 ```
-
 DockerHub: https://hub.docker.com/repository/docker/emiliyata/iot-flask-project/general
