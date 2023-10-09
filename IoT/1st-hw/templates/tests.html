@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tests</title>
+    <style type=text/css>
+        p   {
+            background-color: gray;
+            margin: 10px;
+            }
+
+        div {
+            color: black;
+            background-color: 009900;
+            margin: 2px;
+            font-size: 25px;
+            }
+
+        body{
+            text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <div align="center">
+    {% for table in tables %}
+            <table>
+                <thead>
+                    <tr>
+                        {% for title in titles %}
+                            <th>{{ title }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ table|safe }}
+                </tbody>
+            </table>
+        {% endfor %}
+    </div>
+</body>
+</html>
