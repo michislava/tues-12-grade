@@ -2,9 +2,41 @@
 Kuzmin.petar@gmail.com
 
 ## Записки от часа
+Client-server модел по http има правила (req, res)
 
-## Първо домашно
-IP адрес: 95.43.233.245
+Req от client (get) - за файл (пр: .html), за да се визуализира в browser
+
+- GET - client искат информация от сървъра;
+- POST
+
+Burp Suite - виждат се req и res; Видове атаки, в които се променя user_id на заявката и директо може да се влезне в профил на друг човек (за това се използва Burp Suite)
+
+
+Скенери - събира информация за даден сайт или организация.
+
+Една от първите стъпки при pen test:
+
+- Vulnerability: Автоматизиран scan и оценяване на резултатите
+
+Скенери:
+- Nessus - 32 IP безплатно
+- Nexpose
+
+За browsers:
+- Burp Suite - всички заявки минават през него -> export на log-овете
+
+За контролното и изпитване:
+- OS detection (Разбери как работи - проучи nmap)
+```console
+emi@debian:nmap -O 95.43.233.245
+```
+```console
+emi@debian:nmap -A 95.43.233.245
+```
+- TCP и UDP Scan, по default какъв е scan-a, портове
+- Сканиране на router
+## Nmap IP scan 
+IP адреси: 95.43.233.245 и 95.43.223.245
 
 С nmap да бъдат сканирани портове / търсене на кои портове са отворени и уязвимости. Трябва да бъдат предоставени screenshot-и и да бъдат описани.
 
@@ -55,4 +87,30 @@ emi@debian:nmap -A 95.43.233.245
 emi@debian:nmap --script vuln 95.43.233.245
 ```
 
+## Домашнo Nessus сканиране на host машина
+tenable
+
+Инструкции за инсталация на Nessus essentials 
+
+New Scan / Advanced scan
+
+Предоставяне на credentials за стартиране - в зависимост от това на каква машина се прави
+За Windows - username, passwords регистри, портове, firewalls
+
+Nessus credentialed check on Windows
+Troubleshoоting 
+
+Ако scan-а e успешнo минал - results:
+- да са показали pass - plugin type
+
+### Изисквания за документацията (допълване към стария report):
+- Как е изтеглен nessus
+- Какво е authentic scan
+- Съпоствавка с authentic и без authentic scan (разлики)
+- Изпълнени стъпки за authentic scan: портове (nessus оперира на конкретни портове), firewall
+- Доказателство на конкретните plugin-и (включително и за SMP протокола), че функционира правилно и са минали
+- Може да се опише и премахната уязвимост
+- Пак колко време е отнело (с писането на report-a)
+
+Отново срок: до сряда на имейл, нова версия и pdf
 
