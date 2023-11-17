@@ -4,12 +4,11 @@ import random, time
 from datetime import datetime
 
 flaskUrl = "http://127.0.0.1:7800/data"
-done = True
 
-sensorPost = {}
+sensorPost = {"aqi_sensor_1": None, "aqi_sensor_2": None, "aqi_sensor_3": None}
 
-def sensorData():
-    while done:
+def sensorData(id):
+    while True:
         value = random.uniform(10, 200)
         timestamp = datetime.now().isoformat()
         data = {
@@ -17,11 +16,11 @@ def sensorData():
             "timestamp": timestamp,
             "device_id": id
         }
-        sensorPost = data
+        sensorPost[id] = data
         time.sleep(1)
 
-threading.Thread(target=sensorData).start()
-threading.Thread(target=sensorData).start()
-threading.Thread(target=sensorData).start()
+threading.Thread(target=sensorData, args=("aqi_sensor_1",)).start()
+threading.Thread(target=sensorData, args=("aqi_sensor_2",)).start()
+threading.Thread(target=sensorData, args=("aqi_sensor_3",)).start()
 
 requests.post(flaskUrl, json=sensorPost)

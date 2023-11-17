@@ -1,16 +1,58 @@
 {
    "data": [
       {
-         "value": null,
-         "timestamp": null,
-         "device_id": null,
-         "id": 288167550733943766
+         "aqi_sensor_1": {
+            "value": 145.5628430090734,
+            "timestamp": "2023-11-18T00:35:34.130126",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 195.9260413851811,
+            "timestamp": "2023-11-18T00:35:34.131091",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 147.96969259265475,
+            "timestamp": "2023-11-18T00:35:34.131091",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 554484251404439349
       },
       {
-         "value": null,
-         "timestamp": null,
-         "device_id": null,
-         "id": 226021498236550296
+         "aqi_sensor_1": {
+            "value": 74.71774369102226,
+            "timestamp": "2023-11-18T00:35:47.079611",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 51.143187176073255,
+            "timestamp": "2023-11-18T00:35:47.080608",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 168.46980491464694,
+            "timestamp": "2023-11-18T00:35:47.080608",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 273882353504616212
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 69.95331627299478,
+            "timestamp": "2023-11-18T00:35:51.481919",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 26.941222561789715,
+            "timestamp": "2023-11-18T00:35:51.481919",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 116.05932901630179,
+            "timestamp": "2023-11-18T00:35:51.482920",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 116061563787676982
       }
    ]
 }
