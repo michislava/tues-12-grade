@@ -2,57 +2,1803 @@
    "data": [
       {
          "aqi_sensor_1": {
-            "value": 145.5628430090734,
-            "timestamp": "2023-11-18T00:35:34.130126",
+            "value": 110.77988766553861,
+            "timestamp": "2023-11-18T12:22:58.908482",
             "device_id": "aqi_sensor_1"
          },
          "aqi_sensor_2": {
-            "value": 195.9260413851811,
-            "timestamp": "2023-11-18T00:35:34.131091",
+            "value": 169.38506722332815,
+            "timestamp": "2023-11-18T12:22:58.908482",
             "device_id": "aqi_sensor_2"
          },
          "aqi_sensor_3": {
-            "value": 147.96969259265475,
-            "timestamp": "2023-11-18T00:35:34.131091",
+            "value": 68.45566665995555,
+            "timestamp": "2023-11-18T12:22:58.908417",
             "device_id": "aqi_sensor_3"
          },
-         "id": 554484251404439349
+         "id": 137348047768406884
       },
       {
          "aqi_sensor_1": {
-            "value": 74.71774369102226,
-            "timestamp": "2023-11-18T00:35:47.079611",
+            "value": 194.16289161741102,
+            "timestamp": "2023-11-18T12:22:59.921312",
             "device_id": "aqi_sensor_1"
          },
          "aqi_sensor_2": {
-            "value": 51.143187176073255,
-            "timestamp": "2023-11-18T00:35:47.080608",
+            "value": 70.32122726743754,
+            "timestamp": "2023-11-18T12:22:59.921312",
             "device_id": "aqi_sensor_2"
          },
          "aqi_sensor_3": {
-            "value": 168.46980491464694,
-            "timestamp": "2023-11-18T00:35:47.080608",
+            "value": 160.6088800028392,
+            "timestamp": "2023-11-18T12:22:59.921312",
             "device_id": "aqi_sensor_3"
          },
-         "id": 273882353504616212
+         "id": 145381267614111363
       },
       {
          "aqi_sensor_1": {
-            "value": 69.95331627299478,
-            "timestamp": "2023-11-18T00:35:51.481919",
+            "value": 135.88655287850992,
+            "timestamp": "2023-11-18T12:23:00.934966",
             "device_id": "aqi_sensor_1"
          },
          "aqi_sensor_2": {
-            "value": 26.941222561789715,
-            "timestamp": "2023-11-18T00:35:51.481919",
+            "value": 40.11976283729234,
+            "timestamp": "2023-11-18T12:23:00.934966",
             "device_id": "aqi_sensor_2"
          },
          "aqi_sensor_3": {
-            "value": 116.05932901630179,
-            "timestamp": "2023-11-18T00:35:51.482920",
+            "value": 132.08472241249007,
+            "timestamp": "2023-11-18T12:23:00.934966",
             "device_id": "aqi_sensor_3"
          },
-         "id": 116061563787676982
+         "id": 294522288420337521
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 168.3709334866136,
+            "timestamp": "2023-11-18T12:23:01.941202",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 136.29864631542148,
+            "timestamp": "2023-11-18T12:23:01.941202",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 162.9074639066437,
+            "timestamp": "2023-11-18T12:23:01.941202",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 308866311049658208
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 59.82528387990317,
+            "timestamp": "2023-11-18T12:23:02.952390",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 134.15808129689268,
+            "timestamp": "2023-11-18T12:23:02.952390",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 179.1793901778906,
+            "timestamp": "2023-11-18T12:23:02.952390",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 223043474655223040
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 55.15686226523175,
+            "timestamp": "2023-11-18T12:23:03.955150",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 54.87213228989706,
+            "timestamp": "2023-11-18T12:23:03.955150",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 153.87859256598304,
+            "timestamp": "2023-11-18T12:23:03.955150",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 189957707403585318
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 75.69014248454458,
+            "timestamp": "2023-11-18T12:23:04.969266",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 128.89560599970952,
+            "timestamp": "2023-11-18T12:23:04.969205",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 132.81074653750815,
+            "timestamp": "2023-11-18T12:23:04.969266",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 445338896743469416
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 27.572806812429782,
+            "timestamp": "2023-11-18T12:23:05.970290",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 153.2686268362235,
+            "timestamp": "2023-11-18T12:23:05.970290",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 89.31014543772336,
+            "timestamp": "2023-11-18T12:23:05.970160",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 325520233821092759
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 169.36469842836576,
+            "timestamp": "2023-11-18T12:23:06.970338",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 109.84087614351493,
+            "timestamp": "2023-11-18T12:23:06.985372",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 171.08695376271322,
+            "timestamp": "2023-11-18T12:23:06.970338",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 416775931692260455
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 137.50075331979406,
+            "timestamp": "2023-11-18T12:23:07.971238",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 15.765953265454275,
+            "timestamp": "2023-11-18T12:23:07.986246",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 123.60990456879374,
+            "timestamp": "2023-11-18T12:23:07.971238",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 314907814125677091
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 132.73630541399763,
+            "timestamp": "2023-11-18T12:23:08.980350",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 85.20557179613566,
+            "timestamp": "2023-11-18T12:23:08.996261",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 142.82121312909135,
+            "timestamp": "2023-11-18T12:23:08.980350",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 141380408025560664
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 195.98553827263143,
+            "timestamp": "2023-11-18T12:23:09.992690",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 187.03870238691735,
+            "timestamp": "2023-11-18T12:23:10.008686",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 70.05919426532867,
+            "timestamp": "2023-11-18T12:23:09.992690",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 163976369691277760
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 84.69222233761357,
+            "timestamp": "2023-11-18T12:23:10.999768",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 132.41427691606265,
+            "timestamp": "2023-11-18T12:23:11.015340",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 186.07008479747387,
+            "timestamp": "2023-11-18T12:23:10.999768",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 334248199687119574
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 127.987871133555,
+            "timestamp": "2023-11-18T12:23:12.005393",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 37.01404087295958,
+            "timestamp": "2023-11-18T12:23:12.021336",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 78.08165004090189,
+            "timestamp": "2023-11-18T12:23:12.005380",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 134344623436517353
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 154.7290401363934,
+            "timestamp": "2023-11-18T12:23:13.016071",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 123.37981910283537,
+            "timestamp": "2023-11-18T12:23:13.032145",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 161.51851041574741,
+            "timestamp": "2023-11-18T12:23:13.016071",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 216683131066331789
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 132.1535419372181,
+            "timestamp": "2023-11-18T12:23:14.017090",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 97.5055302645136,
+            "timestamp": "2023-11-18T12:23:14.033090",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 39.879671782587536,
+            "timestamp": "2023-11-18T12:23:14.017090",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 236131885035831572
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 88.24461018391123,
+            "timestamp": "2023-11-18T12:23:15.017304",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 130.05666260092752,
+            "timestamp": "2023-11-18T12:23:15.048071",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 104.4365136953062,
+            "timestamp": "2023-11-18T12:23:15.017304",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 981810528298896390
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 160.2564626447801,
+            "timestamp": "2023-11-18T12:23:16.031238",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 71.07122927603669,
+            "timestamp": "2023-11-18T12:23:16.063150",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 143.92860356592595,
+            "timestamp": "2023-11-18T12:23:16.031238",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 194172288611234568
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 21.374661869917322,
+            "timestamp": "2023-11-18T12:23:17.036265",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 147.07855948191514,
+            "timestamp": "2023-11-18T12:23:17.067302",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 112.99075750172575,
+            "timestamp": "2023-11-18T12:23:17.036217",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 779884773029236786
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 122.5699071491471,
+            "timestamp": "2023-11-18T12:23:18.037435",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 89.35139808424913,
+            "timestamp": "2023-11-18T12:23:18.068168",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 42.233646616308505,
+            "timestamp": "2023-11-18T12:23:18.037435",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 190829509958004539
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 84.9486206376879,
+            "timestamp": "2023-11-18T12:23:19.050023",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 76.74722852695116,
+            "timestamp": "2023-11-18T12:23:19.082012",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 44.431950392881255,
+            "timestamp": "2023-11-18T12:23:19.050023",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 319909082866666106
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 21.28746211930967,
+            "timestamp": "2023-11-18T12:23:20.060498",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 38.45769840868027,
+            "timestamp": "2023-11-18T12:23:20.091245",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 91.74339784335537,
+            "timestamp": "2023-11-18T12:23:20.060498",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 325022286671965602
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 64.12585532913187,
+            "timestamp": "2023-11-18T12:23:21.072119",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 131.50641961289995,
+            "timestamp": "2023-11-18T12:23:21.103444",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 48.90089998648552,
+            "timestamp": "2023-11-18T12:23:21.072119",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 630157182333957683
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 104.80647776632209,
+            "timestamp": "2023-11-18T12:23:22.078334",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 167.42049322284484,
+            "timestamp": "2023-11-18T12:23:22.109419",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 31.781487405351267,
+            "timestamp": "2023-11-18T12:23:22.078334",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 142103124597319927
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 190.71412742196264,
+            "timestamp": "2023-11-18T12:23:23.082112",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 185.40817794725498,
+            "timestamp": "2023-11-18T12:23:23.114169",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 109.08851599792953,
+            "timestamp": "2023-11-18T12:23:23.082199",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 712580365934584565
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 43.874615270208324,
+            "timestamp": "2023-11-18T12:23:24.090085",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 21.97028831316414,
+            "timestamp": "2023-11-18T12:23:24.122215",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 37.769007802634306,
+            "timestamp": "2023-11-18T12:23:24.090085",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 493365899584452621
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 64.94644766668233,
+            "timestamp": "2023-11-18T12:23:25.093932",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 181.3335258495041,
+            "timestamp": "2023-11-18T12:23:25.124192",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 129.51882236243438,
+            "timestamp": "2023-11-18T12:23:25.093932",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 262000500512413795
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 22.294691871882772,
+            "timestamp": "2023-11-18T12:23:26.095252",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 179.82829937591168,
+            "timestamp": "2023-11-18T12:23:26.127293",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 82.25999346553859,
+            "timestamp": "2023-11-18T12:23:26.095252",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 231842336651540218
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 199.8961490854819,
+            "timestamp": "2023-11-18T12:23:27.102195",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 198.86725020972932,
+            "timestamp": "2023-11-18T12:23:27.134236",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 198.79317949089182,
+            "timestamp": "2023-11-18T12:23:27.102195",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 294008005193988627
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 166.09486768987801,
+            "timestamp": "2023-11-18T12:23:28.109661",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 103.24801410510382,
+            "timestamp": "2023-11-18T12:23:28.141184",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 143.87342789288564,
+            "timestamp": "2023-11-18T12:23:28.109661",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 179157610598677981
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 26.96130935983518,
+            "timestamp": "2023-11-18T12:23:29.122152",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 20.53805789240264,
+            "timestamp": "2023-11-18T12:23:29.154053",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 13.291932201058511,
+            "timestamp": "2023-11-18T12:23:29.122152",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 541819715425658154
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 191.94091189946658,
+            "timestamp": "2023-11-18T12:23:30.132275",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 10.663291542359662,
+            "timestamp": "2023-11-18T12:23:30.163086",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 143.37525730151975,
+            "timestamp": "2023-11-18T12:23:30.132275",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 664248547597661915
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 114.16594566711926,
+            "timestamp": "2023-11-18T12:23:31.134339",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 77.62212924412894,
+            "timestamp": "2023-11-18T12:23:31.166027",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 57.392994299285554,
+            "timestamp": "2023-11-18T12:23:31.134339",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 186408354230098045
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 39.293558156802945,
+            "timestamp": "2023-11-18T12:23:32.137537",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 166.52685788957595,
+            "timestamp": "2023-11-18T12:23:32.169499",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 105.55204071183871,
+            "timestamp": "2023-11-18T12:23:32.137537",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 329320162923093405
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 11.011623871560236,
+            "timestamp": "2023-11-18T12:23:33.146004",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 27.43781051416153,
+            "timestamp": "2023-11-18T12:23:33.177352",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 101.26615391321707,
+            "timestamp": "2023-11-18T12:23:33.146004",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 300938573912923019
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 120.66984537164359,
+            "timestamp": "2023-11-18T12:23:34.149018",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 105.21217961292896,
+            "timestamp": "2023-11-18T12:23:34.179784",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 91.88998121787466,
+            "timestamp": "2023-11-18T12:23:34.149018",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 214704218689414757
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 101.01886129606295,
+            "timestamp": "2023-11-18T12:23:35.152279",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 27.697943240785225,
+            "timestamp": "2023-11-18T12:23:35.184176",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 31.132779920057672,
+            "timestamp": "2023-11-18T12:23:35.152279",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 532438578980148632
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 141.51026508572735,
+            "timestamp": "2023-11-18T12:23:36.166982",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 158.37277210604418,
+            "timestamp": "2023-11-18T12:23:36.197571",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 22.868146135445887,
+            "timestamp": "2023-11-18T12:23:36.166982",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 782392375796180280
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 137.16712646226944,
+            "timestamp": "2023-11-18T12:23:38.183049",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 81.32161036327093,
+            "timestamp": "2023-11-18T12:23:37.198124",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 157.91258336220963,
+            "timestamp": "2023-11-18T12:23:38.183049",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 204824046661658147
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 139.9479051736836,
+            "timestamp": "2023-11-18T12:23:39.187259",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 109.083811722393,
+            "timestamp": "2023-11-18T12:23:39.202259",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 199.57547580838826,
+            "timestamp": "2023-11-18T12:23:39.187259",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 858161902801168681
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 164.02337704077712,
+            "timestamp": "2023-11-18T12:23:40.188018",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 54.52282395166088,
+            "timestamp": "2023-11-18T12:23:40.204074",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 147.79318557233339,
+            "timestamp": "2023-11-18T12:23:40.188018",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 105008187622946665
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 86.66682648375065,
+            "timestamp": "2023-11-18T12:23:41.191638",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 15.206440977052074,
+            "timestamp": "2023-11-18T12:23:41.207494",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 62.534574818838266,
+            "timestamp": "2023-11-18T12:23:41.191638",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 474033592317694269
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 166.14692792969865,
+            "timestamp": "2023-11-18T12:23:42.199309",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 90.18512908564794,
+            "timestamp": "2023-11-18T12:23:42.214891",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 12.072178547986919,
+            "timestamp": "2023-11-18T12:23:42.199309",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 283061568312258052
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 170.92959327584802,
+            "timestamp": "2023-11-18T12:23:43.203176",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 116.48837049136228,
+            "timestamp": "2023-11-18T12:23:43.219197",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 34.71831932962029,
+            "timestamp": "2023-11-18T12:23:43.203176",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 317925388282100784
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 114.10685629833806,
+            "timestamp": "2023-11-18T12:23:44.211324",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 91.20146039967227,
+            "timestamp": "2023-11-18T12:23:44.227288",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 196.9745488955925,
+            "timestamp": "2023-11-18T12:23:44.211324",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 212472650699568156
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 119.71614863041583,
+            "timestamp": "2023-11-18T12:23:45.212029",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 61.346943740213014,
+            "timestamp": "2023-11-18T12:23:45.227995",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 149.8870608779696,
+            "timestamp": "2023-11-18T12:23:45.212029",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 264239545802580421
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 17.847088528344724,
+            "timestamp": "2023-11-18T12:23:46.217475",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 61.45725779517589,
+            "timestamp": "2023-11-18T12:23:46.233326",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 21.869884162248795,
+            "timestamp": "2023-11-18T12:23:46.217393",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 106845990700669954
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 17.27362325149744,
+            "timestamp": "2023-11-18T12:23:47.224038",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 189.0158029757232,
+            "timestamp": "2023-11-18T12:23:47.240143",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 89.58717819890289,
+            "timestamp": "2023-11-18T12:23:47.224038",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 406189551228575546
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 138.00297889721773,
+            "timestamp": "2023-11-18T12:23:48.228398",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 59.03127356998357,
+            "timestamp": "2023-11-18T12:23:48.244089",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 153.76658692421682,
+            "timestamp": "2023-11-18T12:23:48.228398",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 285042917582618185
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 123.81961970153965,
+            "timestamp": "2023-11-18T12:35:35.059026",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 92.13217129865521,
+            "timestamp": "2023-11-18T12:35:35.059186",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 184.31427447398332,
+            "timestamp": "2023-11-18T12:35:35.059186",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 228593040430769483
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 40.24270167238227,
+            "timestamp": "2023-11-18T12:35:36.064828",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 110.05707178561865,
+            "timestamp": "2023-11-18T12:35:36.064828",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 133.478856883533,
+            "timestamp": "2023-11-18T12:35:36.064828",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 690974032353752944
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 30.10123590106772,
+            "timestamp": "2023-11-18T12:35:37.068059",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 128.51097047593143,
+            "timestamp": "2023-11-18T12:35:37.068059",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 28.102544128049175,
+            "timestamp": "2023-11-18T12:35:37.068059",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 440480735168669547
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 176.472207297267,
+            "timestamp": "2023-11-18T12:35:38.077799",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 23.25664946648285,
+            "timestamp": "2023-11-18T12:35:38.077958",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 150.07024004693463,
+            "timestamp": "2023-11-18T12:35:38.077958",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 899454497126281007
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 48.27669368417305,
+            "timestamp": "2023-11-18T12:35:39.086599",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 129.2870182922053,
+            "timestamp": "2023-11-18T12:35:39.086599",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 140.35258260898092,
+            "timestamp": "2023-11-18T12:35:39.086599",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 308008915324352211
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 118.74494367534263,
+            "timestamp": "2023-11-18T12:35:40.093519",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 185.31964665902865,
+            "timestamp": "2023-11-18T12:35:40.092977",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 78.87473428176519,
+            "timestamp": "2023-11-18T12:35:40.092808",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 335938223769792515
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 13.761203371378699,
+            "timestamp": "2023-11-18T12:35:41.099868",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 70.21842293318295,
+            "timestamp": "2023-11-18T12:35:41.099868",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 33.11693668816392,
+            "timestamp": "2023-11-18T12:35:41.099868",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 290722165697090950
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 149.4650954622835,
+            "timestamp": "2023-11-18T12:35:42.107502",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 58.127771669439575,
+            "timestamp": "2023-11-18T12:35:42.107502",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 52.77525523094347,
+            "timestamp": "2023-11-18T12:35:42.107502",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 108540475568687993
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 66.55171348949999,
+            "timestamp": "2023-11-18T12:35:43.113658",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 139.51369175589977,
+            "timestamp": "2023-11-18T12:35:43.113658",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 19.06035196815398,
+            "timestamp": "2023-11-18T12:35:43.113658",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 194840371554052058
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 197.33828294185778,
+            "timestamp": "2023-11-18T12:35:44.117174",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 92.04541171275943,
+            "timestamp": "2023-11-18T12:35:44.117174",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 54.45651678391244,
+            "timestamp": "2023-11-18T12:35:44.117174",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 248556862558741237
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 94.29666078738448,
+            "timestamp": "2023-11-18T12:35:45.123602",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 190.6620066352033,
+            "timestamp": "2023-11-18T12:35:45.123602",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 186.37018492536535,
+            "timestamp": "2023-11-18T12:35:45.123602",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 226015726936013257
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 62.605985971816956,
+            "timestamp": "2023-11-18T12:35:46.128700",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 60.907895627806546,
+            "timestamp": "2023-11-18T12:35:46.128700",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 90.81973087227057,
+            "timestamp": "2023-11-18T12:35:46.128700",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 287987385129968803
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 42.50070757230723,
+            "timestamp": "2023-11-18T12:35:47.143651",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 154.9114360566248,
+            "timestamp": "2023-11-18T12:35:47.143651",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 116.94052902482329,
+            "timestamp": "2023-11-18T12:35:47.143651",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 325516088114635201
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 128.59848498404196,
+            "timestamp": "2023-11-18T12:35:48.150464",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 151.98657879200388,
+            "timestamp": "2023-11-18T12:35:48.150464",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 137.13053260016915,
+            "timestamp": "2023-11-18T12:35:48.150464",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 304575187450671043
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 74.12770309783086,
+            "timestamp": "2023-11-18T12:35:49.150627",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 37.44245374087252,
+            "timestamp": "2023-11-18T12:35:49.150627",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 186.59334570274828,
+            "timestamp": "2023-11-18T12:35:49.150627",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 405056774426036727
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 124.68262487312684,
+            "timestamp": "2023-11-18T12:35:50.152929",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 12.852858122594224,
+            "timestamp": "2023-11-18T12:35:50.152929",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 192.29363938004124,
+            "timestamp": "2023-11-18T12:35:50.152929",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 171491770949552427
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 55.765859787934666,
+            "timestamp": "2023-11-18T12:35:52.173687",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 105.78570808878233,
+            "timestamp": "2023-11-18T12:35:52.173687",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 161.1574384571736,
+            "timestamp": "2023-11-18T12:35:52.173687",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 287962573633556086
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 64.38481012617495,
+            "timestamp": "2023-11-18T12:35:53.177736",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 128.4743016633002,
+            "timestamp": "2023-11-18T12:35:53.177736",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 50.78837704405707,
+            "timestamp": "2023-11-18T12:35:53.177736",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 402928506278483618
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 124.80301321909667,
+            "timestamp": "2023-11-18T12:35:54.184996",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 34.20167074468605,
+            "timestamp": "2023-11-18T12:35:54.184996",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 106.17474565944647,
+            "timestamp": "2023-11-18T12:35:54.184996",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 386808816235899091
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 175.82279755635713,
+            "timestamp": "2023-11-18T12:35:55.198760",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 23.92248190304303,
+            "timestamp": "2023-11-18T12:35:55.198760",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 33.68235279534666,
+            "timestamp": "2023-11-18T12:35:55.198760",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 154103971680768676
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 11.76416153603734,
+            "timestamp": "2023-11-18T12:35:56.212264",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 148.30683380825266,
+            "timestamp": "2023-11-18T12:35:56.212264",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 145.82229502325197,
+            "timestamp": "2023-11-18T12:35:56.212264",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 314595656450896314
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 131.28492259165006,
+            "timestamp": "2023-11-18T12:35:57.216020",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 33.25944771191861,
+            "timestamp": "2023-11-18T12:35:57.216020",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 192.1737809136257,
+            "timestamp": "2023-11-18T12:35:57.216020",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 127231761590505677
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 143.97452542161233,
+            "timestamp": "2023-11-18T12:35:58.222937",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 80.95712104362046,
+            "timestamp": "2023-11-18T12:35:58.222937",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 34.69092142447033,
+            "timestamp": "2023-11-18T12:35:58.222868",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 320157986851945281
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 32.480381366478966,
+            "timestamp": "2023-11-18T12:35:59.228837",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 154.45131215582444,
+            "timestamp": "2023-11-18T12:35:59.228837",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 63.69948851004257,
+            "timestamp": "2023-11-18T12:35:59.228837",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 271398931307425149
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 173.8021347044152,
+            "timestamp": "2023-11-18T12:36:00.230381",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 159.25865720765103,
+            "timestamp": "2023-11-18T12:36:00.230381",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 75.78708385766778,
+            "timestamp": "2023-11-18T12:36:00.230381",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 100168043256806406
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 36.01308615240849,
+            "timestamp": "2023-11-18T12:36:01.239057",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 39.96465754863251,
+            "timestamp": "2023-11-18T12:36:01.239057",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 183.96564837067731,
+            "timestamp": "2023-11-18T12:36:01.239057",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 150060837698850115
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 148.52054366190154,
+            "timestamp": "2023-11-18T12:36:02.244281",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 16.176686075408057,
+            "timestamp": "2023-11-18T12:36:02.244281",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 35.022286364877985,
+            "timestamp": "2023-11-18T12:36:02.244281",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 214799698666808366
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 93.63911035793409,
+            "timestamp": "2023-11-18T12:36:03.259800",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 108.64548256632989,
+            "timestamp": "2023-11-18T12:36:03.259800",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 19.688727493646866,
+            "timestamp": "2023-11-18T12:36:03.259800",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 160467468311949933
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 187.18878435932643,
+            "timestamp": "2023-11-18T12:36:04.273488",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 90.43057863458591,
+            "timestamp": "2023-11-18T12:36:04.273488",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 133.0135487939054,
+            "timestamp": "2023-11-18T12:36:04.273488",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 286296670568232369
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 47.57050723734535,
+            "timestamp": "2023-11-18T12:36:05.274937",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 193.511266671398,
+            "timestamp": "2023-11-18T12:36:05.274937",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 69.04916781042562,
+            "timestamp": "2023-11-18T12:36:05.274937",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 693106790166432799
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 32.30925370560488,
+            "timestamp": "2023-11-18T12:36:06.283810",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 33.94372433117248,
+            "timestamp": "2023-11-18T12:36:06.283810",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 137.89066989850912,
+            "timestamp": "2023-11-18T12:36:06.283810",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 400798658902827635
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 160.10317190886337,
+            "timestamp": "2023-11-18T12:36:07.290652",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 128.57291429184312,
+            "timestamp": "2023-11-18T12:36:07.290652",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 199.89931829913894,
+            "timestamp": "2023-11-18T12:36:07.290652",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 161185800846648783
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 178.46782277352224,
+            "timestamp": "2023-11-18T12:36:08.301040",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 17.25810208601877,
+            "timestamp": "2023-11-18T12:36:08.301040",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 84.76155900475446,
+            "timestamp": "2023-11-18T12:36:08.301040",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 256067829038345102
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 117.3941240704478,
+            "timestamp": "2023-11-18T12:36:09.301642",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 30.76294880262468,
+            "timestamp": "2023-11-18T12:36:09.301642",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 100.44169570415126,
+            "timestamp": "2023-11-18T12:36:09.301642",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 235164162670832789
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 70.55786935706851,
+            "timestamp": "2023-11-18T12:36:10.308704",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 96.0507249183775,
+            "timestamp": "2023-11-18T12:36:10.308704",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 142.5205337916941,
+            "timestamp": "2023-11-18T12:36:10.308842",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 146725817860490204
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 125.80557989764999,
+            "timestamp": "2023-11-18T12:36:11.313797",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 158.23040326949865,
+            "timestamp": "2023-11-18T12:36:11.313797",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 79.9859869066748,
+            "timestamp": "2023-11-18T12:36:11.313669",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 766588584597650490
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 55.5894338242278,
+            "timestamp": "2023-11-18T12:36:12.317733",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 136.62306566466162,
+            "timestamp": "2023-11-18T12:36:12.317733",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 155.162090270079,
+            "timestamp": "2023-11-18T12:36:12.317733",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 270927555569067017
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 148.14916662108163,
+            "timestamp": "2023-11-18T12:36:13.329658",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 24.749922752065135,
+            "timestamp": "2023-11-18T12:36:13.329658",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 133.61328319169283,
+            "timestamp": "2023-11-18T12:36:13.329658",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 138238959945680294
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 134.80555123220574,
+            "timestamp": "2023-11-18T12:36:14.337185",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 105.46123361219287,
+            "timestamp": "2023-11-18T12:36:14.337185",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 196.04086013921585,
+            "timestamp": "2023-11-18T12:36:14.337185",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 327781005166806018
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 95.08352124788071,
+            "timestamp": "2023-11-18T12:36:15.343836",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 21.9828523104941,
+            "timestamp": "2023-11-18T12:36:15.343836",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 145.54063892657433,
+            "timestamp": "2023-11-18T12:36:15.343836",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 235897734069986014
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 30.392489111210153,
+            "timestamp": "2023-11-18T12:36:16.344844",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 172.50404432843254,
+            "timestamp": "2023-11-18T12:36:16.344844",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 118.83649524709323,
+            "timestamp": "2023-11-18T12:36:16.344844",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 328722050213045744
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 117.44282049612771,
+            "timestamp": "2023-11-18T12:36:17.348246",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 93.30322644446659,
+            "timestamp": "2023-11-18T12:36:17.348246",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 126.25404769200324,
+            "timestamp": "2023-11-18T12:36:17.348246",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 993766518885723955
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 184.81657251767504,
+            "timestamp": "2023-11-18T12:36:18.349880",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 160.1415949828964,
+            "timestamp": "2023-11-18T12:36:18.349880",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 187.08651407637868,
+            "timestamp": "2023-11-18T12:36:18.349880",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 295553848210661848
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 121.13189048930947,
+            "timestamp": "2023-11-18T12:36:19.350928",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 19.079518027137244,
+            "timestamp": "2023-11-18T12:36:19.350928",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 44.22320518111656,
+            "timestamp": "2023-11-18T12:36:19.350928",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 996285483242369680
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 34.278437335763215,
+            "timestamp": "2023-11-18T12:36:20.354183",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 59.44309898563456,
+            "timestamp": "2023-11-18T12:36:20.354183",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 186.54566680983154,
+            "timestamp": "2023-11-18T12:36:20.354183",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 293272893414118425
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 25.30589702611426,
+            "timestamp": "2023-11-18T12:36:21.362155",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 112.55182662365529,
+            "timestamp": "2023-11-18T12:36:21.362155",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 91.1027518288115,
+            "timestamp": "2023-11-18T12:36:21.362155",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 305627291189112999
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 49.76919054337382,
+            "timestamp": "2023-11-18T12:36:22.374617",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 165.95607415490556,
+            "timestamp": "2023-11-18T12:36:22.374617",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 129.86757811513502,
+            "timestamp": "2023-11-18T12:36:22.374617",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 127221234813071770
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 97.97832244679333,
+            "timestamp": "2023-11-18T12:36:23.389834",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 39.154814604499684,
+            "timestamp": "2023-11-18T12:36:23.389834",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 195.15470420177053,
+            "timestamp": "2023-11-18T12:36:23.389834",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 141294311883183500
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 123.01414284413718,
+            "timestamp": "2023-11-18T12:36:24.404633",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 38.16548215138395,
+            "timestamp": "2023-11-18T12:36:24.404633",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 61.22555427784781,
+            "timestamp": "2023-11-18T12:36:24.404633",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 275319665114277901
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 39.15925574292333,
+            "timestamp": "2023-11-18T12:36:25.407790",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 135.67256493613746,
+            "timestamp": "2023-11-18T12:36:25.407790",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 126.05047501239642,
+            "timestamp": "2023-11-18T12:36:25.407790",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 128435018879230185
+      },
+      {
+         "aqi_sensor_1": {
+            "value": 129.21163412412653,
+            "timestamp": "2023-11-18T12:36:26.411971",
+            "device_id": "aqi_sensor_1"
+         },
+         "aqi_sensor_2": {
+            "value": 196.666988207314,
+            "timestamp": "2023-11-18T12:36:26.411971",
+            "device_id": "aqi_sensor_2"
+         },
+         "aqi_sensor_3": {
+            "value": 48.62500169535292,
+            "timestamp": "2023-11-18T12:36:26.411971",
+            "device_id": "aqi_sensor_3"
+         },
+         "id": 211546277185704091
       }
    ]
 }

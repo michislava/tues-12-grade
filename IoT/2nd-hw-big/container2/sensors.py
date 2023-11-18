@@ -7,8 +7,9 @@ flaskUrl = "http://127.0.0.1:7800/data"
 
 sensorPost = {"aqi_sensor_1": None, "aqi_sensor_2": None, "aqi_sensor_3": None}
 
+done_event = threading.Event()
 def sensorData(id):
-    while True:
+    while not done_event.is_set():
         value = random.uniform(10, 200)
         timestamp = datetime.now().isoformat()
         data = {
@@ -23,4 +24,13 @@ threading.Thread(target=sensorData, args=("aqi_sensor_1",)).start()
 threading.Thread(target=sensorData, args=("aqi_sensor_2",)).start()
 threading.Thread(target=sensorData, args=("aqi_sensor_3",)).start()
 
-requests.post(flaskUrl, json=sensorPost)
+try:
+    while True:
+        # Wait for two seconds
+        time.sleep(1)
+        requests.post(flaskUrl, json=sensorPost)
+
+except KeyboardInterrupt:
+    done_event.set()
+    time.sleep(2)  # Adjust the time as needed
+    print("Script terminated.")

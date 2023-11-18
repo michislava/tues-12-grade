@@ -6,7 +6,11 @@
 </head>
 <body>
     <h1>Big HW VAR3 Rosi & Emi</h1>
-    <a href="{{ url_for('addData') }}">Data</a>
+    <ul>
+        {% for link in sensor_links %}
+            <li><a href="{{ link }}">{{ link }}</a></li>
+        {% endfor %}
+    </ul>
 </body>
 </html>
 
