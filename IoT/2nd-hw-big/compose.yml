@@ -1,8 +1,7 @@
 version: '3'
 services:
   container1:
-    build:
-      context: ./container1
+    image: container1
     ports:
       - "7800:7800"
     volumes:
@@ -11,10 +10,11 @@ services:
       - my_network
 
   container2:
-    build:
-      context: ./container2
+    image: container2
     networks:
       - my_network
+    depends_on:
+      - container1
 
 networks:
   my_network:

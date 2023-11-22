@@ -3,7 +3,7 @@ import requests, threading
 import random, time
 from datetime import datetime
 
-flaskUrl = "http://127.0.0.1:7800/data"
+flaskUrl = "http://container1:7800/data"
 
 sensorPost = {"aqi_sensor_1": None, "aqi_sensor_2": None, "aqi_sensor_3": None}
 

@@ -1,0 +1,48 @@
+{
+  "thingId": "smartwatch",
+  "policyId": "smartwatch-policy",
+  "attributes": {
+    "manufacturer": "Apple",
+    "model": "Apple Watch Series 9",
+    "size": "41mm"
+  },
+  "features": {
+    "normalWatch": {
+      "properties": {
+        "time": "22:40",
+        "date": "21.11.23"
+      }
+    },
+    "light": {
+      "properties": {
+        "brightnessScreen": 40
+      }
+    },
+    "location": {
+      "properties": {
+        "GPSOn": false,
+        "currentLocation": {
+          "country": "Unknown",
+          "city": "Unknown",
+          "street": "Unknown",
+          "N": "Unknown"
+        }
+      },
+      "desiredProperties": {
+        "GPSOn": true
+      }
+    },
+    "healthInfo": {
+      "properties": {
+        "bloodOxygen": "60%",
+        "targetSteps": 6000,
+        "sleepTracking": "5hr 13min"
+      },
+      "desiredProperties": {
+        "bloodOxygen": "95%",
+        "targetSteps": 10000,
+        "sleepTracking": "8hr"
+      }
+    }
+  }
+}
