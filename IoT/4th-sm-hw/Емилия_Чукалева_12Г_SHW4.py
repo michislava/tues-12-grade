@@ -25,7 +25,7 @@ def on_subscribe(client, userdata, mid, granted_qos):
 def on_message(client, userdata, msg):
     if msg.topic == GAME_STATE_TOPIC:
         try:
-            print(msg.payload)
+            print("\n" + msg.payload.decode("utf-8"))
         except json.JSONDecodeError as e:
             print(f"Error decoding JSON: {e}")
 
@@ -39,14 +39,19 @@ try:
     client.subscribe(GAME_STATE_TOPIC)
 
     player_name = int(input("Player: "))
+
     client.loop_start()
 
     while True:
-        row = int(input("Enter row: "))
-        col = int(input("Enter column: "))
-
-        move_message = {"player": player_name, "move": [col, row]}
-        client.publish(TOPIC_MOVES, json.dumps(move_message))
+        row = input("Enter row: ")
+        col = input("Enter column: ")
+        try:
+            row = int(row)
+            col = int(col)
+            move_message = {"player": player_name, "move": [col, row]}
+            client.publish(TOPIC_MOVES, json.dumps(move_message))
+        except ValueError:
+            print("Invalid input. Please enter valid integers for row and column.")
 
 except Exception as e:
     print(f"An error occurred: {e}")
