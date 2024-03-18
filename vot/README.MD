@@ -194,6 +194,7 @@ Prometheus Node Exporter предоставя системни метрики н
 - Network:	Network traffic, TCP flow, Connections
 
 Collector-ът e част от exporter. Представлява код, написан за събиране на данни за дадена метрика, пример за метрика е "CPU core usage" или набор от метрики. Следователно колекторите също представляват метрика или набор от метрики.
+
 ![node-img-1-1024x487-1.jpeg](node-img-1-1024x487-1.jpeg)
 
 
@@ -208,6 +209,7 @@ Pros of active monitoring
 - Provides real-time network visibility.
 - Simulates possible user behaviors.
 - Enables your team to predict and troubleshoot potential issues.
+
 Cons of active monitoring
 - Resource-intensive approach.
 - Data isn’t always accurate.
