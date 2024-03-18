@@ -6,7 +6,7 @@ lyubomir.stoyanov@oblak.bg
 2. [Защо виртуализацията е важна?](#Защо-виртуализацията-е-важна)
 3. [Основни концепции за виртуализацията](#Основни-концепции-за-виртуализацията)
 4. [Контейнеризация](#Контейнеризация)
-5. [File, Block и Object storage](#File-Block-Object-storage)
+5. [File Block и Object storage](#File-Block-Object-storage)
 6. [Мониторинг](#Мониторинг)
 7. [Elastic Search](#Elastic-Search)
 8. [Backup и Архивиране](#Backup-и-Архивиране)
