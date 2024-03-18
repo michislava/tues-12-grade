@@ -321,5 +321,31 @@ AWS S3 Backup - различни възможности май май - incremen
 # Archive
 - Физически архив -може да се извади един документ - едно копие
 - За разлика от backup -> не се пази стара версия, а само последно променяната версия
+- Могат да се правят instant changes
+- Организираност
+
+### Съхраняване на HDD
+
++ Място - Около 1 TB
++ Живот - до 5 години живот
++ Бързина - Бързо
+
+### Съхраняване в облачно пространство
+
++ Amazone Web Services (AWS) -> S3 backup -> S3 Glacier
+
+  S3 Glacier storage класовете осигуряват практически неограничена мащабируемост и са проектирани за трайност на данните. Класовете за съхранение S3 Glacier предоставят възможности за най-бърз достъп до архивираните данни и най-евтиното архивно съхранение в облака.
+
+  Има три класа за съхранение на архиви, оптимизирани за различни модели на достъп и продължителност на съхранение.
+  + **S3 Glacier Instant Retrieval storage class**- lowest cost storage with milliseconds retrieval
+  + **S3 Glacier Flexible Retrieval** -  retrieval in minutes or free bulk retrievals in 5-12 hours
+  + **S3 Glacier Deep Archive** - the lowest cost storage in the cloud with data retrieval within 12 hours
+
+### Съхраняване на видео касети
+
++ Място - Около 8 TB 
++ Живот - до 35 години живот
++ Бързина - Отнема време
+
 
 Записки за Backup и Archive от Плами :)
